@@ -1,0 +1,192 @@
+Start testing: Sep 10 14:39 EDT
+----------------------------------------------------------
+1/7 Testing: MatrixMultiplicationTest.KnownProduct
+1/7 Test: MatrixMultiplicationTest.KnownProduct
+Command: "/home/kingasian/Projects/mmtest/build/matrix_tests" "--gtest_filter=MatrixMultiplicationTest.KnownProduct" "--gtest_also_run_disabled_tests"
+Directory: /home/kingasian/Projects/mmtest/build
+"MatrixMultiplicationTest.KnownProduct" start time: Sep 10 14:39 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/kingasian/Projects/mmtest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixMultiplicationTest.KnownProduct
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixMultiplicationTest
+[ RUN      ] MatrixMultiplicationTest.KnownProduct
+[       OK ] MatrixMultiplicationTest.KnownProduct (0 ms)
+[----------] 1 test from MatrixMultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixMultiplicationTest.KnownProduct" end time: Sep 10 14:39 EDT
+"MatrixMultiplicationTest.KnownProduct" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/7 Testing: MatrixMultiplicationTest.IdentityIsNoOp
+2/7 Test: MatrixMultiplicationTest.IdentityIsNoOp
+Command: "/home/kingasian/Projects/mmtest/build/matrix_tests" "--gtest_filter=MatrixMultiplicationTest.IdentityIsNoOp" "--gtest_also_run_disabled_tests"
+Directory: /home/kingasian/Projects/mmtest/build
+"MatrixMultiplicationTest.IdentityIsNoOp" start time: Sep 10 14:39 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/kingasian/Projects/mmtest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixMultiplicationTest.IdentityIsNoOp
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixMultiplicationTest
+[ RUN      ] MatrixMultiplicationTest.IdentityIsNoOp
+[       OK ] MatrixMultiplicationTest.IdentityIsNoOp (0 ms)
+[----------] 1 test from MatrixMultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixMultiplicationTest.IdentityIsNoOp" end time: Sep 10 14:39 EDT
+"MatrixMultiplicationTest.IdentityIsNoOp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/7 Testing: MatrixMultiplicationTest.MultiplyByZeroMatrix
+3/7 Test: MatrixMultiplicationTest.MultiplyByZeroMatrix
+Command: "/home/kingasian/Projects/mmtest/build/matrix_tests" "--gtest_filter=MatrixMultiplicationTest.MultiplyByZeroMatrix" "--gtest_also_run_disabled_tests"
+Directory: /home/kingasian/Projects/mmtest/build
+"MatrixMultiplicationTest.MultiplyByZeroMatrix" start time: Sep 10 14:39 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/kingasian/Projects/mmtest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixMultiplicationTest.MultiplyByZeroMatrix
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixMultiplicationTest
+[ RUN      ] MatrixMultiplicationTest.MultiplyByZeroMatrix
+[       OK ] MatrixMultiplicationTest.MultiplyByZeroMatrix (0 ms)
+[----------] 1 test from MatrixMultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixMultiplicationTest.MultiplyByZeroMatrix" end time: Sep 10 14:39 EDT
+"MatrixMultiplicationTest.MultiplyByZeroMatrix" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/7 Testing: MatrixMultiplicationTest.ResultDimensionsMatchOperands
+4/7 Test: MatrixMultiplicationTest.ResultDimensionsMatchOperands
+Command: "/home/kingasian/Projects/mmtest/build/matrix_tests" "--gtest_filter=MatrixMultiplicationTest.ResultDimensionsMatchOperands" "--gtest_also_run_disabled_tests"
+Directory: /home/kingasian/Projects/mmtest/build
+"MatrixMultiplicationTest.ResultDimensionsMatchOperands" start time: Sep 10 14:39 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/kingasian/Projects/mmtest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixMultiplicationTest.ResultDimensionsMatchOperands
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixMultiplicationTest
+[ RUN      ] MatrixMultiplicationTest.ResultDimensionsMatchOperands
+[       OK ] MatrixMultiplicationTest.ResultDimensionsMatchOperands (0 ms)
+[----------] 1 test from MatrixMultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixMultiplicationTest.ResultDimensionsMatchOperands" end time: Sep 10 14:39 EDT
+"MatrixMultiplicationTest.ResultDimensionsMatchOperands" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/7 Testing: MatrixMultiplicationTest.SingleElementMatrices
+5/7 Test: MatrixMultiplicationTest.SingleElementMatrices
+Command: "/home/kingasian/Projects/mmtest/build/matrix_tests" "--gtest_filter=MatrixMultiplicationTest.SingleElementMatrices" "--gtest_also_run_disabled_tests"
+Directory: /home/kingasian/Projects/mmtest/build
+"MatrixMultiplicationTest.SingleElementMatrices" start time: Sep 10 14:39 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/kingasian/Projects/mmtest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixMultiplicationTest.SingleElementMatrices
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixMultiplicationTest
+[ RUN      ] MatrixMultiplicationTest.SingleElementMatrices
+[       OK ] MatrixMultiplicationTest.SingleElementMatrices (0 ms)
+[----------] 1 test from MatrixMultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixMultiplicationTest.SingleElementMatrices" end time: Sep 10 14:39 EDT
+"MatrixMultiplicationTest.SingleElementMatrices" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/7 Testing: MatrixMultiplicationTest.NotCommutativeInGeneral
+6/7 Test: MatrixMultiplicationTest.NotCommutativeInGeneral
+Command: "/home/kingasian/Projects/mmtest/build/matrix_tests" "--gtest_filter=MatrixMultiplicationTest.NotCommutativeInGeneral" "--gtest_also_run_disabled_tests"
+Directory: /home/kingasian/Projects/mmtest/build
+"MatrixMultiplicationTest.NotCommutativeInGeneral" start time: Sep 10 14:39 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/kingasian/Projects/mmtest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixMultiplicationTest.NotCommutativeInGeneral
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixMultiplicationTest
+[ RUN      ] MatrixMultiplicationTest.NotCommutativeInGeneral
+[       OK ] MatrixMultiplicationTest.NotCommutativeInGeneral (0 ms)
+[----------] 1 test from MatrixMultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixMultiplicationTest.NotCommutativeInGeneral" end time: Sep 10 14:39 EDT
+"MatrixMultiplicationTest.NotCommutativeInGeneral" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/7 Testing: MatrixMultiplicationTest.AssociativeProperty
+7/7 Test: MatrixMultiplicationTest.AssociativeProperty
+Command: "/home/kingasian/Projects/mmtest/build/matrix_tests" "--gtest_filter=MatrixMultiplicationTest.AssociativeProperty" "--gtest_also_run_disabled_tests"
+Directory: /home/kingasian/Projects/mmtest/build
+"MatrixMultiplicationTest.AssociativeProperty" start time: Sep 10 14:39 EDT
+Output:
+----------------------------------------------------------
+Running main() from /home/kingasian/Projects/mmtest/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = MatrixMultiplicationTest.AssociativeProperty
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from MatrixMultiplicationTest
+[ RUN      ] MatrixMultiplicationTest.AssociativeProperty
+[       OK ] MatrixMultiplicationTest.AssociativeProperty (0 ms)
+[----------] 1 test from MatrixMultiplicationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"MatrixMultiplicationTest.AssociativeProperty" end time: Sep 10 14:39 EDT
+"MatrixMultiplicationTest.AssociativeProperty" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 10 14:39 EDT

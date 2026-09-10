@@ -1,0 +1,9 @@
+matrix_tests_NOT_BUILT 0 0
+MatrixMultiplicationTest.KnownProduct 1 0.00222737
+MatrixMultiplicationTest.IdentityIsNoOp 1 0.00195523
+MatrixMultiplicationTest.MultiplyByZeroMatrix 1 0.00168946
+MatrixMultiplicationTest.ResultDimensionsMatchOperands 1 0.00166645
+MatrixMultiplicationTest.SingleElementMatrices 1 0.00170615
+MatrixMultiplicationTest.NotCommutativeInGeneral 1 0.001636
+MatrixMultiplicationTest.AssociativeProperty 1 0.00201887
+---
